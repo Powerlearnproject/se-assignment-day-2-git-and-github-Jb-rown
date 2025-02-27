@@ -10,27 +10,29 @@ It tracks modifications, allowing you to revert to previous states, compare chan
 
 Key concepts include:
 
-  Repositories: Central storage for files and their history.
-  Commits: Snapshots of changes at a specific point in time.
-  Branches: Divergent lines of development.
-  Merging: Combining changes from different branches.
+Repositories: Central storage for files and their history.
+Commits: Snapshots of changes at a specific point in time.
+Branches: Divergent lines of development.
+Merging: Combining changes from different branches.
 
 GitHub's Popularity:
 
 GitHub is a web-based platform that uses Git, a distributed version control system.
 It provides a user-friendly interface, collaboration tools, and hosting for Git repositories.
+
 Its popularity stems from:
-  Easy collaboration through pull requests and issue tracking.
-  A vast community and open-source projects.
-  Integration with various development tools.
-  It provides a central location for teams to work together, and allows for easy code review.
+
+Easy collaboration through pull requests and issue tracking.
+A vast community and open-source projects.
+Integration with various development tools.
+It provides a central location for teams to work together, and allows for easy code review.
 
 Maintaining Project Integrity:
 
-  Version control prevents data loss by storing historical versions.
-  It allows for easy rollback to stable versions if errors occur.
-  It tracks changes, making it easy to identify and fix bugs.
-  It facilitates collaboration without overwriting each other's work.
+Version control prevents data loss by storing historical versions.
+It allows for easy rollback to stable versions if errors occur.
+It tracks changes, making it easy to identify and fix bugs.
+It facilitates collaboration without overwriting each other's work.
 
 ##2.Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?
 Key Steps:
