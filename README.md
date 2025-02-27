@@ -9,12 +9,14 @@ Version control tracks code changes over time, allowing teams to collaborate wit
 It tracks modifications, allowing you to revert to previous states, compare changes, see who made modifications, and collaborate effectively.
 
 Key concepts include:
+
   Repositories: Central storage for files and their history.
   Commits: Snapshots of changes at a specific point in time.
   Branches: Divergent lines of development.
   Merging: Combining changes from different branches.
 
 GitHub's Popularity:
+
 GitHub is a web-based platform that uses Git, a distributed version control system.
 It provides a user-friendly interface, collaboration tools, and hosting for Git repositories.
 Its popularity stems from:
@@ -24,6 +26,7 @@ Its popularity stems from:
   It provides a central location for teams to work together, and allows for easy code review.
 
 Maintaining Project Integrity:
+
   Version control prevents data loss by storing historical versions.
   It allows for easy rollback to stable versions if errors occur.
   It tracks changes, making it easy to identify and fix bugs.
