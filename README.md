@@ -10,10 +10,13 @@ It tracks modifications, allowing you to revert to previous states, compare chan
 
 Key concepts include:
 
-Repositories: Central storage for files and their history.
-Commits: Snapshots of changes at a specific point in time.
-Branches: Divergent lines of development.
-Merging: Combining changes from different branches.
+  Repositories: Central storage for files and their history.
+  
+  Commits: Snapshots of changes at a specific point in time.
+  
+  Branches: Divergent lines of development.
+  
+  Merging: Combining changes from different branches.
 
 GitHub's Popularity:
 
